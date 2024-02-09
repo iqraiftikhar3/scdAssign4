@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-main 
-=======
-b1
->>>>>>> 19ad5dd (b1 added)
-=======
-b2
->>>>>>> 399e2b0 (b2 added)
+main
